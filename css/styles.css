@@ -292,4 +292,7 @@ p {
 
 }
 
-
+myPDF {
+    width: 100%;
+    height: 965px;
+}
